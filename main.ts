@@ -1,3 +1,7 @@
+// Created by: Evan
+// Created on: Oct. 2020
+// 
+// This program calculates the area of a trapezoid
 game.splash("Let's calculate the area of a trapezoid")
 let Top_length = game.askForNumber("Enter the top length of trapezoid")
 let Bottom_length = game.askForNumber("Enter the Bottom length of trapezoid")
